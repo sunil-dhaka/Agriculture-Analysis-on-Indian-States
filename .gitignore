@@ -1,8 +1,11 @@
+# added
+project-groups.csv
+gpu_server.md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
-
 # C extensions
 *.so
 
