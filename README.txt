@@ -1,3 +1,6 @@
+NOTE: To be able to run data.py one needs an API key and have to store it into login.py.
+Otherwise can use stored data from datasets-folder.
+
 -----------------Project README.txt------------------
 
 

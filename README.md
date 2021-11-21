@@ -35,5 +35,27 @@ It takes about 10 mins to run on my machine.
 For results of analysis please see particular notebook files and pdf report.
 ## repo str:
 ```
-
+.
+├── analysis.ipynb
+├── analysis.sh
+├── animation-images
+├── area.py
+├── area.sh
+├── data.py
+├── datasets
+├── data.sh
+├── district-geo-analysis.ipynb
+├── district-geo-analysis.sh
+├── general.md
+├── gpu_server.md
+├── LICENSE
+├── login.py
+├── login.sh
+├── project-ideas.md
+├── project_report_images
+├── project.sh
+├── README.md
+├── README.txt
+├── state-geo-analysis.ipynb
+└── state-geo-analysis.sh
 ```
